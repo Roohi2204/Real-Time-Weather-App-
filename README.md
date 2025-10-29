@@ -53,4 +53,4 @@ You need Python 3.x installed.
 
 ## 🔑 Note on the API Key
 
-The application currently uses a sample/placeholder API key (`cd428c80e2bb37333a664f4b919b77af`). For security and best practice, if you plan to use this application long-term or share it with others, you should register for your own free API key from OpenWeatherMap and replace the key in the Python script.
+The application currently uses a sample/placeholder API key . For security and best practice, if you plan to use this application long-term or share it with others, you should register for your own free API key from OpenWeatherMap and replace the key in the Python script.
